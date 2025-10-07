@@ -1,2 +1,2 @@
-# semi-ultraaug
+# semi-SFAug
 Thyroid nodules semi segmentation
